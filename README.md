@@ -1,6 +1,7 @@
-# sshscanner
+# GhostLogin (sshscanner)
 
 A bash-based SSH network scanner with optional automated brute-force capability, built for CTF competitions and security research in lab environments.
+Be aware that in no way you're invisible. GhostLogin is just the name for the project.
 
 ## Features
 
